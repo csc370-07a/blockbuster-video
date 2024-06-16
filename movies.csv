@@ -1,20 +1,20 @@
-Id,Title,Genre,Director,LeadActor
-1,The Hateful Eight,Western,Quentin Tarantino,Samuel L. Jackson
-2,Tenet,"Action, Sci-Fi",Christopher Nolan,John David Washington
-3,Snatch,"Crime, Comedy",Guy Ritchie,Jason Statham
-4,Pirates of the Caribbean: The Curse of the Black Pearl,"Adventure, Fantasy",Gore Verbinski,Johnny Depp
-5,Oldboy,"Action, Drama, Mystery",Park Chan-wook,Choi Min-sik
-6,The Dark Knight,"Action, Crime, Drama",Christopher Nolan,Christian Bale
-7,Inception,"Action, Adventure, Sci-Fi",Christopher Nolan,Leonardo DiCaprio
-8,Prisoners,"Crime, Drama, Mystery",Denis Villeneuve,Hugh Jackman
-9,Nightcrawler,"Crime, Drama, Thriller",Dan Gilroy,Jake Gyllenhaal
-10,Sicario,"Action, Crime, Drama",Denis Villeneuve,Emily Blunt
-11,Parasite,"Drama, Thriller",Bong Joon Ho,Song Kang-ho
-12,La La Land,"Comedy, Drama, Music",Damien Chazelle,Ryan Gosling
-13,Jarhead,"Biography, Drama, War",Sam Mendes,Jake Gyllenhaal
-14,The Shining,"Drama, Horror",Stanley Kubrick,Jack Nicholson
-15,Inglourious Basterds,"Adventure, Drama, War",Quentin Tarantino,Brad Pitt
-16,Tropic Thunder,"Action, Comedy, War",Ben Stiller,Ben Stiller
-17,Iron Man,"Action, Adventure, Sci-Fi",Jon Favreau,Robert Downey Jr.
-18,Triangle of Sadness,"Comedy, Drama",Ruben Östlund,Harris Dickinson
-19,Oppenheimer,"Biography, Drama, History",Christopher Nolan,Cillian Murphy
+Id,Title,Genre,Director,Year
+,The Hateful Eight,Western,Quentin Tarantino,2015
+,Tenet,Action,Christopher Nolan,2020
+,Snatch,Crime,Guy Ritchie,2000
+,Pirates of the Caribbean: The Curse of the Black Pearl,Adventure,Gore Verbinski,2003
+,Oldboy,Action,Park Chan-wook,2003
+,The Dark Knight,Action,Christopher Nolan,2008
+,Inception,Action,Christopher Nolan,2010
+,Prisoners,Thriller,Denis Villeneuve,2013
+,Nightcrawler,Thriller,Dan Gilroy,2014
+,Sicario,Action,Denis Villeneuve,2015
+,Parasite,Drama,Bong Joon Ho,2019
+,La La Land,Musical,Damien Chazelle,2016
+,Jarhead,War,Sam Mendes,2005
+,The Shining,Thriller,Stanley Kubrick,1980
+,Inglourious Basterds,Adventure,Quentin Tarantino,2009
+,Tropic Thunder,Comedy,Ben Stiller,2008
+,Iron Man,Action,Jon Favreau,2008
+,Triangle of Sadness,Drama,Ruben Östlund,2022
+,Oppenheimer,Biopic,Christopher Nolan,2023
